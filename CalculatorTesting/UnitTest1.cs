@@ -73,6 +73,18 @@ namespace CalculatorTesting
             Assert.AreNotEqual(25, result); // 20 ≠ 25, so this will pass
 
         }
+         [Test]
+
+        public void Product_TwoNumbers_NotEqual()
+
+        {
+
+            int result = _calculator.product(4, 5);
+
+            Assert.AreNotEqual(25, result); // 20 ≠ 25, so this will pass
+
+        }
+        
 
     }
 
