@@ -1,0 +1,14 @@
+D:\Jenkins\Calculator\Calculator\bin\Debug\net8.0\Calculator.exe
+D:\Jenkins\Calculator\Calculator\bin\Debug\net8.0\Calculator.deps.json
+D:\Jenkins\Calculator\Calculator\bin\Debug\net8.0\Calculator.runtimeconfig.json
+D:\Jenkins\Calculator\Calculator\bin\Debug\net8.0\Calculator.dll
+D:\Jenkins\Calculator\Calculator\bin\Debug\net8.0\Calculator.pdb
+D:\Jenkins\Calculator\Calculator\obj\Debug\net8.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jenkins\Calculator\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfoInputs.cache
+D:\Jenkins\Calculator\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfo.cs
+D:\Jenkins\Calculator\Calculator\obj\Debug\net8.0\Calculator.csproj.CoreCompileInputs.cache
+D:\Jenkins\Calculator\Calculator\obj\Debug\net8.0\Calculator.dll
+D:\Jenkins\Calculator\Calculator\obj\Debug\net8.0\refint\Calculator.dll
+D:\Jenkins\Calculator\Calculator\obj\Debug\net8.0\Calculator.pdb
+D:\Jenkins\Calculator\Calculator\obj\Debug\net8.0\Calculator.genruntimeconfig.cache
+D:\Jenkins\Calculator\Calculator\obj\Debug\net8.0\ref\Calculator.dll
