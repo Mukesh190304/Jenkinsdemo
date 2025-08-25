@@ -75,7 +75,7 @@ namespace CalculatorTesting
         }
          [Test]
 
-        public void Product_TwoNumbers_NotEqual()
+        public void Product_TwoNumbers_NotEqual1()
 
         {
 
